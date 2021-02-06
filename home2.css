@@ -1,0 +1,59 @@
+h1{
+    font-size:44px;
+	margin:10px 0 0 0;
+	font-style: italic;
+	text-transform:capitalize;
+	text-shadow:2px 3px 3px #333;
+	}
+	
+h2{
+	color: #FDFEFE;
+    font-size:44px;
+	margin:10px 0 0 0;
+	font-style: italic;
+	text-transform:capitalize;
+	text-shadow:2px 3px 3px #333;
+	}
+	
+	
+	
+li {
+    border-right: 1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
+body{
+background-image:url('/bootstrap/png/trv1.jpg');
+background-attachment:fixed;
+position: relative;
+background-position: fixed;
+background-size:cover;
+background-repeat:repeat; 
+}
+
+div.transbox {
+	padding:30px 30px 30px 30px;
+	border-radius: 12px;
+	margin: 250px;
+	background-color: #3b3c3d;
+	border: 1px solid black;
+	opacity: 0.7;
+	filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #FDFEFE;
+}
+div.transbox h3 {
+  font-weight: bold;
+  color: #FDFEFE;
+  font-size:23px;
+  margin:10px 0 0 0;
+  font-style: italic;
+  text-transform:capitalize;
+}
+

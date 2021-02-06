@@ -1,0 +1,136 @@
+h1{
+    font-size:44px;
+	margin:10px 0 0 0;
+	font-style: italic;
+	text-transform:capitalize;
+	text-shadow:2px 3px 3px #333;
+	}
+	
+h2{
+	color: #FDFEFE;
+    font-size:44px;
+	margin:10px 0 0 0;
+	font-style: italic;
+	text-transform:capitalize;
+	text-shadow:2px 3px 3px #333;
+	}
+	
+	
+	
+li {
+    border-right: 1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
+body{
+background-image:url('/bootstrap/png/travel.jpg');
+background-attachment:fixed;
+position: relative;
+background-position: fixed;
+background-size:cover;
+background-repeat:no-repeat; 
+}
+
+div.pic1 {
+background-image:url('/bootstrap/png/dhaka1.jpg');
+height:630px;
+background-attachment:fixed;
+background-size:cover;
+}
+div.pic2 {
+background-image:url('/bootstrap/png/sona.jpg');
+height:630px;
+background-attachment:fixed;
+background-size:cover;
+}
+div.pic3 {
+background-image:url('/bootstrap/png/sundor1.jpg');
+height:630px;
+background-attachment:fixed;
+background-size:cover;
+}
+div.pic4 {
+background-image:url('/bootstrap/png/mosque.png');
+height:630px;
+background-attachment:fixed;
+background-size:cover;
+}
+div.pic5 {
+background-image:url('/bootstrap/png/a1.jpeg');
+height:630px;
+background-attachment:fixed;
+background-size:cover;
+}
+div.pic6 {
+background-image:url('/bootstrap/png/shita.jpg');
+height:630px;
+background-attachment:fixed;
+background-size:cover;
+}
+div.pic7 {
+background-image:url('/bootstrap/png/a2.jpg');
+height:630px;
+background-attachment:fixed;
+background-size:cover;
+}
+div.pic8 {
+background-image:url('/bootstrap/png/a5.jpeg');
+height:630px;
+background-attachment:fixed;
+background-size:cover;
+}
+div.pic9 {
+background-image:url('/bootstrap/png/a8.jpeg');
+height:630px;
+background-attachment:fixed;
+background-size:cover;
+}
+div.pic10 {
+background-image:url('/bootstrap/png/a9.jpeg');
+height:630px;
+background-attachment:fixed;
+background-size:cover;
+}
+div.pic11 {
+background-image:url('/bootstrap/png/shri.jpg');
+height:630px;
+background-attachment:fixed;
+background-size:cover;
+}
+div.pic12 {
+background-image:url('/bootstrap/png/jaf.jpg');
+height:625px;
+background-attachment:fixed;
+background-size:cover;
+}
+
+
+
+
+
+div.transbox {
+	padding:30px 30px 30px 30px;
+	border-radius: 12px;
+	margin: 250px;
+	background-color: #3b3c3d;
+	border: 1px solid black;
+	opacity: 0.7;
+	filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #FDFEFE;
+}
+div.transbox h3 {
+  font-weight: bold;
+  color: #FDFEFE;
+  font-size:23px;
+  margin:10px 0 0 0;
+  font-style: italic;
+  text-transform:capitalize;
+}
+
